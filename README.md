@@ -6,7 +6,7 @@ This framework enables AWS IoT cloud connectivity with ESP32 based platforms usi
 
 - Please clone this repository using,
     ```
-    git clone --recursive https://github.com/espressif/esp-aws-iot
+    git clone https://github.com/Carol-001/esp-aws-iot.git
     ```
 - Please refer to https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html for setting ESP-IDF
   - ESP-IDF can be downloaded from https://github.com/espressif/esp-idf/
